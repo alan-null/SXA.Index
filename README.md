@@ -15,6 +15,7 @@
 - [Demo sites](#demo-sites)
 
 ## <a name="downloads" href="#downloads"></a> Downloads  [↑](#contents)
+- [Sitecore Experience Accelerator 1.7][sxa_17]
 - [Sitecore Experience Accelerator 1.6][sxa_16]
 - [Sitecore Experience Accelerator 1.5][sxa_15]
 - [Sitecore Experience Accelerator 1.4][sxa_14]
@@ -26,35 +27,49 @@
 
 ## <a name="requirements" href="#requirements"></a> Requirements  [↑](#contents)
 ## <a name="requirements-table" href="#requirements-table"></a> Requirements table  [↑](#contents)
-|                                           |[1.0][sxa_10]|[1.1][sxa_11]|[1.2][sxa_12]|[1.3][sxa_13]|[1.3.1][sxa_131]|[1.4][sxa_14]|[1.5][sxa_15]|[1.6][sxa_16]|
-|:-                                         |:-:|:-:|:-:|:-:|:---:|:-:|:-:|:-:|
-|   **SITECORE EXPERIENCE PLATFORM**        |   |   |   |   |     |   |   |   |
-|   [Sitecore 9.0 rev. 171219 (Update- 1)][sc_171219]     |   |   |   |   |     |   |   | ✔ |
-|   [Sitecore 9.0 rev. 171002 (Initial)][sc_171002]      |   |   |   |   |     |   | ✔ |   |
-|   [Sitecore 8.2 rev. 171121 (Update- 6)][sc_171121]    |   |   |   |   |     |   | ✔ | ✔ |
-|   [Sitecore 8.2 rev. 170728 (Update- 5)][sc_170728]    |   |   |   |   |     |   | ✔ |   |
-|   [Sitecore 8.2 rev. 170614 (Update- 4)][sc_170614]    |   |   |   |   |     |   |   |   |
-|   [Sitecore 8.2 rev. 170407 (Update- 3)][sc_170407]    |   |   |   | ✔ |  ✔  | ✔ |   |   |
-|   [Sitecore 8.2 rev. 161221 (Update- 2)][sc_161221]    |   |   |   | ✔ |     |   |   |   |
-|   [Sitecore 8.2 rev. 161115 (Update- 1)][sc_161115]    |   |   | ✔ |   |     |   |   |   |
-|   [Sitecore 8.2 rev. 160729 (Initial)][sc_160729]      | ✔ | ✔ |   |   |     |   |   |   |
-|   [Sitecore 8.1 rev. 160519 (Update- 3)][sc_160519]    | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ |   |   |
-|   [Sitecore 8.1 rev. 160302 (Update- 2)][sc_160302]    |   |   |   |   |     |   |   |   |
-|   [Sitecore 8.1 rev. 151207 (Update- 1)][sc_151207]    |   |   |   |   |     |   |   |   |
-|   [Sitecore 8.1 rev. 151003 (Initial)][sc_151003]      |   |   |   |   |     |   |   |   |
-|   **SITECORE POWERSHELL EXTENSIONS**      |   |   |   |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.0][spe_4.0]      |   |   |   |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.1][spe_4.1]      | ✔ | ✔ |   |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.2][spe_4.2]      | ✔ | ✔ |   |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.3][spe_4.3]      | ✔ | ✔ | ✔ |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.4][spe_4.4]      | ✔ | ✔ | ✔ |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.4.1][spe_4.4.1]  | ✔ | ✔ | ✔ |   |     |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.5][spe_4.5]      | ✔ | ✔ | ✔ | ✔ |  ✔  |   |   |   |
-|   [Sitecore.PowerShell.Extensions-4.6][spe_4.6]      | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ |   |   |
-|   [Sitecore.PowerShell.Extensions-4.7][spe_4.7]      | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ | ✔ | ✔ |
+|                                           |[1.0][sxa_10]|[1.1][sxa_11]|[1.2][sxa_12]|[1.3][sxa_13]|[1.3.1][sxa_131]|[1.4][sxa_14]|[1.5][sxa_15]|[1.6][sxa_16]|[1.7][sxa_17]|
+|:-                                                      |:-:|:-:|:-:|:-:|:---:|:-:|:-:|:-:|:-:|
+|   **SITECORE EXPERIENCE PLATFORM**                     |   |   |   |   |     |   |   |   |   |
+|   [Sitecore 9.0 rev. 171219 (Update- 1)][sc_171219]    |   |   |   |   |     |   |   | ✔ | ✔ |
+|   [Sitecore 9.0 rev. 171002 (Initial)][sc_171002]      |   |   |   |   |     |   | ✔ |   |   |
+|   [Sitecore 8.2 rev. 180406 (Update- 7)][sc_180406]    |   |   |   |   |     |   |   |    | ✔ |
+|   [Sitecore 8.2 rev. 171121 (Update- 6)][sc_171121]    |   |   |   |   |     |   | ✔ | ✔ |   |
+|   [Sitecore 8.2 rev. 170728 (Update- 5)][sc_170728]    |   |   |   |   |     |   | ✔ |   |   |
+|   [Sitecore 8.2 rev. 170614 (Update- 4)][sc_170614]    |   |   |   |   |     |   |   |   |   |
+|   [Sitecore 8.2 rev. 170407 (Update- 3)][sc_170407]    |   |   |   | ✔ |  ✔  | ✔ |   |   |   |
+|   [Sitecore 8.2 rev. 161221 (Update- 2)][sc_161221]    |   |   |   | ✔ |     |   |   |   |   |
+|   [Sitecore 8.2 rev. 161115 (Update- 1)][sc_161115]    |   |   | ✔ |   |     |   |   |   |   |
+|   [Sitecore 8.2 rev. 160729 (Initial)][sc_160729]      | ✔ | ✔ |   |   |     |   |   |   |   |
+|   [Sitecore 8.1 rev. 160519 (Update- 3)][sc_160519]    | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ |   |   |   |
+|   [Sitecore 8.1 rev. 160302 (Update- 2)][sc_160302]    |   |   |   |   |     |   |   |   |   |
+|   [Sitecore 8.1 rev. 151207 (Update- 1)][sc_151207]    |   |   |   |   |     |   |   |   |   |
+|   [Sitecore 8.1 rev. 151003 (Initial)][sc_151003]      |   |   |   |   |     |   |   |   |   |
+|   **SITECORE POWERSHELL EXTENSIONS**      |   |   |   |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.0][spe_4.0]      |   |   |   |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.1][spe_4.1]      | ✔ | ✔ |   |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.2][spe_4.2]      | ✔ | ✔ |   |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.3][spe_4.3]      | ✔ | ✔ | ✔ |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.4][spe_4.4]      | ✔ | ✔ | ✔ |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.4.1][spe_4.4.1]  | ✔ | ✔ | ✔ |   |     |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.5][spe_4.5]      | ✔ | ✔ | ✔ | ✔ |  ✔  |   |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.6][spe_4.6]      | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ |   |   |   |
+|   [Sitecore.PowerShell.Extensions-4.7][spe_4.7]      | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ | ✔ | ✔ |   |
+|   [Sitecore.PowerShell.Extensions-4.7.2][spe_4.7.2]  | ✔ | ✔ | ✔ | ✔ |  ✔  | ✔ | ✔ | ✔ | ✔ |
 
 
 ## <a name="raw-requirements" href="#raw-requirements"></a> Raw requirements  [↑](#contents)
+
+<details><summary>Sitecore Experience Accelerator 1.7</summary><p>
+
+**PLATFORM:**
+ * Sitecore Experience Platform 9.0 rev. 171219 (Update- 1)
+ * Sitecore Experience Platform 8.2 rev. 180406 (Update- 7)
+
+ **SPE**
+ * full 4.7.2 version for Sitecore 8.
+
+`Note Only for standalone and scaled environment CM instance.`
+</p></details>
 
 <details><summary>Sitecore Experience Accelerator 1.6</summary><p>
 
@@ -179,7 +194,9 @@
 [spe_4.5]: https://github.com/SitecorePowerShell/Console/releases/tag/4.5
 [spe_4.6]: https://github.com/SitecorePowerShell/Console/releases/tag/4.6
 [spe_4.7]: https://github.com/SitecorePowerShell/Console/releases/tag/4.7
+[spe_4.7.2]: https://marketplace.sitecore.net/Modules/Sitecore_PowerShell_console.aspx
 
+[sxa_17]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/17/Sitecore_Experience_Accelerator_17_Initial_Release.aspx
 [sxa_16]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/16/Sitecore_Experience_Accelerator_16_Initial_Release.aspx
 [sxa_15]: https://dev.sitecore.net//en/Downloads/Sitecore_Experience_Accelerator/15/Sitecore_Experience_Accelerator_15_Initial_Release.aspx
 [sxa_14]: https://dev.sitecore.net//en/Downloads/Sitecore_Experience_Accelerator/14/Sitecore_Experience_Accelerator_14_Initial_Release.aspx
@@ -192,6 +209,7 @@
 
 [sc_171219]: https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Update1.aspx
 [sc_171002]: https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Initial_Release.aspx
+[sc_180406]: https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/82/Sitecore_Experience_Platform_82_Update7.aspx
 [sc_171121]: https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/82/Sitecore_Experience_Platform_82_Update6.aspx
 [sc_170728]: https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/82/Sitecore_Experience_Platform_82_Update5.aspx
 [sc_170614]: https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/82/Sitecore_Experience_Platform_82_Update4.aspx
