@@ -198,6 +198,7 @@
 
 * [XA.Reference](https://github.com/alan-null/XA.Reference/releases)
 * [Sitecore.XA.Showcase](https://github.com/Cognifide/Sitecore.XA.Showcase/releases)
+* [Habitat Home](https://github.com/Sitecore/Sitecore.HabitatHome.Content/releases)
 
 [spe_4.0]: https://github.com/SitecorePowerShell/Console/releases/tag/4.0
 [spe_4.1]: https://github.com/SitecorePowerShell/Console/releases/tag/4.1
