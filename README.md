@@ -192,6 +192,7 @@
 * https://vgz-zorgkantoren.nl
 * https://mvp.sitecore.net
 * https://www.houthoff.com
+* https://www.valorhealthcare.com
 
 
 ## <a name="demo-sites" href="#demo-sites"></a> Demo sites  [↑](#contents)
