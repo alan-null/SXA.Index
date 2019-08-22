@@ -11,6 +11,7 @@
 - [Requirements](#requirements)
     - [Requirements table](#requirements-table)
     - [Raw requirements](#raw-requirements)
+- [File versions](#file-versions)
 - [Sites Running SXA](#sites-running-sxa)
 - [Demo sites](#demo-sites)
 
@@ -230,6 +231,50 @@
  * Sitecore XP 8.2 – full 4.1 or later
 
 </p></details>
+
+
+## <a name="file-versions" href="#file-versions"></a> File Versions  [↑](#contents)
+| SXA archive                                                   | File version |
+|:--------------------------------------------------------------|:-------------|
+| **1.9.0**                                                                    |
+| Sitecore Experience Accelerator 1.9.0 rev. 190528 for 9.2     |   5.9.0.0    |
+| Sitecore Experience Accelerator 1.9.0 rev. 190528 for 9.1     |   4.9.0.0    |
+| **1.8.1**                                                                    |
+| Sitecore Experience Accelerator 1.8.1 rev. 190319 for 9.1.1   |   4.8.1.1667 |
+| Sitecore Experience Accelerator 1.8.1 rev. 190319 for 9.0     |   3.8.1.1666 |
+| **1.8**                                                                      |
+| Sitecore Experience Accelerator 1.8 rev. 181112 for 9.1       |   4.8.0.1160 |
+| Sitecore Experience Accelerator 1.8 rev. 181112 for 9.0       |   3.8.0.1161 |
+| **1.7.1**                                                                    |
+| Sitecore Experience Accelerator 1.7.1 rev. 180604 for 9.0     |   3.7.0.643  |
+| Sitecore Experience Accelerator 1.7.1 rev. 180604 for 8.2     |   2.7.0.1435 |
+| **1.7**                                                                      |
+| Sitecore Experience Accelerator 1.7 rev. 180410 for 9.0       |   3.7.0.547  |
+| Sitecore Experience Accelerator 1.7 rev. 180410 for 8.2       |   2.7.0.1346 |
+| **1.6**                                                                      |
+| Sitecore Experience Accelerator 1.6 rev. 180103 for 9.0       |   3.6.0.430  |
+| Sitecore Experience Accelerator 1.6 rev. 180103 for 8.2       |   2.6.0.1151 |
+| **1.5**                                                                      |
+| Sitecore Experience Accelerator 1.5 rev. 171010 for 9.0       |   3.5.0.292  |
+| Sitecore Experience Accelerator 1.5 rev. 171010 for 8.2       |   2.5.0.932  |
+| **1.4**                                                                      |
+| Sitecore Experience Accelerator 1.4 rev. 170623 for 8.2       |   2.4.0.653  |
+| Sitecore Experience Accelerator 1.4 rev. 170623 for 8.1       |   1.4.0.518  |
+| **1.3.1**                                                                    |
+| Sitecore Experience Accelerator 1.3 rev. 170519 for 8.2       |   2.3.0.575  |
+| Sitecore Experience Accelerator 1.3 rev. 170519 for 8.1       |   1.3.0.452  |
+| **1.3**                                                                      |
+| Sitecore Experience Accelerator 1.3 rev. 170412 for 8.2       |   2.3.0.479  |
+| Sitecore Experience Accelerator 1.3 rev. 170412 for 8.1       |   1.3.0.403  |
+| **1.2**                                                                      |
+| Sitecore Experience Accelerator 1.2 rev. 161216 for 8.2       |   2.2.0.259  |
+| Sitecore Experience Accelerator 1.2 rev. 161216 for 8.1       |   1.2.0.259  |
+| **1.1**                                                                      |
+| Sitecore Experience Accelerator 1.1 rev. 161004 for 8.2       |   2.1.0.110  |
+| Sitecore Experience Accelerator 1.1 rev. 161004 for 8.1       |   1.1.0.150  |
+| **1.0**                                                                      |
+| Sitecore Experience Accelerator 1.0.0 for 8.2                 |   2.0.0.0    |
+| Sitecore Experience Accelerator 1.0.0 for 8.1                 |   1.0.0.0    |
 
 
 ## <a name="sites-running-sxa" href="#sites-running-sxa"></a> Sites Running SXA  [↑](#contents)
