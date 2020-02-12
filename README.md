@@ -304,7 +304,6 @@
 * https://www.houthoff.com
 * https://vgz-zorgkantoren.nl
 * https://mvp.sitecore.net
-* https://www.houthoff.com
 * https://www.valorhealthcare.com
 
 
