@@ -17,6 +17,7 @@
 
 ## <a name="downloads" href="#downloads"></a> Downloads  [↑](#contents)
 
+- [Sitecore Experience Accelerator 10.1][sxa_10.1]
 - [Sitecore Experience Accelerator 10.0][sxa_10.0]
 - [Sitecore Experience Accelerator 9.3][sxa_93]
 - [Sitecore Experience Accelerator 1.9][sxa_19]
@@ -35,49 +36,63 @@
 
 ## <a name="requirements" href="#requirements"></a> Requirements  [↑](#contents)
 ## <a name="requirements-table" href="#requirements-table"></a> Requirements table  [↑](#contents)
-|                                           |[1.0][sxa_10]|[1.1][sxa_11]|[1.2][sxa_12]|[1.3][sxa_13]|[1.3.1][sxa_131]|[1.4][sxa_14]|[1.5][sxa_15]|[1.6][sxa_16]|[1.7][sxa_17]|[1.7.1][sxa_171]|[1.8][sxa_18]|[1.8.1][sxa_181]|[1.9][sxa_19]|[9.3][sxa_93]|[10.0][sxa_10.0]|
-|:-                                                            |:-:|:--:|:-:|:--:|:--:|:-:|:--:|:-:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|
-|   **SITECORE EXPERIENCE PLATFORM**                           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 10.0 rev. 004346 (Initial)][sc_004346]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ |
-|   [Sitecore 9.3 rev. 003498 (Initial)][sc_003498]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; |
-|   [Sitecore 9.2 rev. 002893 (Initial)][sc_002893]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; |
-|   [Sitecore 9.1 rev. 002459 (Update-1)][sc_002459]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; |
-|   [Sitecore 9.1 rev. 001564 (Initial)][sc_001564]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 9.0 rev. 180604 (Update-2)][sc_180604]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 9.0 rev. 171219 (Update-1)][sc_171219]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 9.0 rev. 171002 (Initial)][sc_171002]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 180406 (Update-7)][sc_180406]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 171121 (Update-6)][sc_171121]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 170728 (Update-5)][sc_170728]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 170614 (Update-4)][sc_170614]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 170407 (Update-3)][sc_170407]           | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 161221 (Update-2)][sc_161221]           | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 161115 (Update-1)][sc_161115]           | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.2 rev. 160729 (Initial)][sc_160729]            | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.1 rev. 160519 (Update-3)][sc_160519]           | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.1 rev. 160302 (Update-2)][sc_160302]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.1 rev. 151207 (Update-1)][sc_151207]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore 8.1 rev. 151003 (Initial)][sc_151003]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   **SITECORE POWERSHELL EXTENSIONS**                         | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.0][spe_4.0]              | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.1][spe_4.1]              | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.2][spe_4.2]              | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.3][spe_4.3]              | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.4][spe_4.4]              | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.4.1][spe_4.4.1]          | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.5][spe_4.5]              | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.6][spe_4.6]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.7][spe_4.7]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-4.7.2][spe_4.7.2]          | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-5.0][spe_5.0]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-5.0 for 9.1][spe_5.0_9.1]  | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-5.0 for 9.2][spe_5.0_9.2]  | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-5.1][spe_5.1]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-6.0][spe_6.0]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; |
-|   [Sitecore.PowerShell.Extensions-6.1.1][spe_6.1.1]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+|                                           |[1.0][sxa_10]|[1.1][sxa_11]|[1.2][sxa_12]|[1.3][sxa_13]|[1.3.1][sxa_131]|[1.4][sxa_14]|[1.5][sxa_15]|[1.6][sxa_16]|[1.7][sxa_17]|[1.7.1][sxa_171]|[1.8][sxa_18]|[1.8.1][sxa_181]|[1.9][sxa_19]|[9.3][sxa_93]|[10.0][sxa_10.0]|[10.1][sxa_10.1]|
+|:-                                                            |:-:|:--:|:-:|:--:|:--:|:-:|:--:|:-:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|
+|   **SITECORE EXPERIENCE PLATFORM**                           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 10.1 rev. 005862 (Initial)][sc_005862]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |&nbsp; | ✔ |
+|   [Sitecore 10.0 rev. 004346 (Initial)][sc_004346]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; |
+|   [Sitecore 9.3 rev. 003498 (Initial)][sc_003498]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; |
+|   [Sitecore 9.2 rev. 002893 (Initial)][sc_002893]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 9.1 rev. 002459 (Update-1)][sc_002459]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 9.1 rev. 001564 (Initial)][sc_001564]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 9.0 rev. 180604 (Update-2)][sc_180604]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 9.0 rev. 171219 (Update-1)][sc_171219]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 9.0 rev. 171002 (Initial)][sc_171002]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 180406 (Update-7)][sc_180406]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 171121 (Update-6)][sc_171121]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 170728 (Update-5)][sc_170728]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 170614 (Update-4)][sc_170614]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 170407 (Update-3)][sc_170407]           | &nbsp; | &nbsp; | &nbsp; | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 161221 (Update-2)][sc_161221]           | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 161115 (Update-1)][sc_161115]           | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.2 rev. 160729 (Initial)][sc_160729]            | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.1 rev. 160519 (Update-3)][sc_160519]           | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.1 rev. 160302 (Update-2)][sc_160302]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.1 rev. 151207 (Update-1)][sc_151207]           | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore 8.1 rev. 151003 (Initial)][sc_151003]            | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   **SITECORE POWERSHELL EXTENSIONS**                         | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.0][spe_4.0]              | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.1][spe_4.1]              | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.2][spe_4.2]              | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.3][spe_4.3]              | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.4][spe_4.4]              | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.4.1][spe_4.4.1]          | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.5][spe_4.5]              | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.6][spe_4.6]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.7][spe_4.7]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-4.7.2][spe_4.7.2]          | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-5.0][spe_5.0]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-5.0 for 9.1][spe_5.0_9.1]  | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-5.0 for 9.2][spe_5.0_9.2]  | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | ✔ | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-5.1][spe_5.1]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-6.0][spe_6.0]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | &nbsp; | &nbsp; |
+|   [Sitecore.PowerShell.Extensions-6.1.1][spe_6.1.1]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+|   [Sitecore.PowerShell.Extensions-6.2][spe_6.2]              | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 
 
 ## <a name="raw-requirements" href="#raw-requirements"></a> Raw requirements  [↑](#contents)
+
+<details><summary>Sitecore Experience Accelerator 10.1.0</summary><p>
+
+**PLATFORM:**
+* Sitecore Experience Platform 10.1 rev. 005862 (Initial)
+
+ **SPE**
+ * Sitecore PowerShell Extensions 6.2
+
+
+`Note Only for standalone and scaled environment CM instance.`
+</p></details>
 
 <details><summary>Sitecore Experience Accelerator 10.0.0</summary><p>
 
@@ -267,6 +282,8 @@
 ## <a name="file-versions" href="#file-versions"></a> File Versions  [↑](#contents)
 | SXA archive                                                   | File version |
 | :---------------------------------------------------------- | :----------- |
+| **10.1.0**                                                                    |
+| Sitecore Experience Accelerator 10.1.0.3751                    |   8.0.0.0   |
 | **10.0.0**                                                  |
 | Sitecore Experience Accelerator 10.0.0.3138                 | 7.0.0.0      |
 | **9.3.0**                                                                    |
@@ -346,7 +363,9 @@
 [spe_5.0_9.2]: https://dev.sitecore.net/~/media/F02391CD82A144D18021665D3D3F4675.ashx
 [spe_6.0]: https://github.com/SitecorePowerShell/Console/releases/tag/6.0
 [spe_6.1.1]: https://github.com/SitecorePowerShell/Console/releases/tag/6.1.1
+[spe_6.2]: https://github.com/SitecorePowerShell/Console/releases/tag/6.2
 
+[sxa_10.1]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/10x/Sitecore_Experience_Accelerator_1010.aspx
 [sxa_10.0]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/10x/Sitecore_Experience_Accelerator_1000.aspx
 [sxa_93]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/9x/Sitecore_Experience_Accelerator_930.aspx
 [sxa_19]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/19/Sitecore_Experience_Accelerator_190.aspx
@@ -364,6 +383,7 @@
 [sxa_10]: https://dev.sitecore.net//en/Downloads/Sitecore_Experience_Accelerator/10/Sitecore_Experience_Accelerator_10_Initial_Release.aspx
 
 
+[sc_005862]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/101/Sitecore_Experience_Platform_101_Update1.aspx
 [sc_004346]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/100/Sitecore_Experience_Platform_100.aspx
 [sc_003498]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/93/Sitecore_Experience_Platform_93_Initial_Release.aspx
 [sc_002893]: https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/92/Sitecore_Experience_Platform_92_Initial_Release.aspx
